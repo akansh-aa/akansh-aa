@@ -1,4 +1,22 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;RAG+%7C+LLMs+%7C+AI+Agents;Computer+Vision+Enthusiast;Building+Production+Ready+AI+Systems" />
+</p>
 <h1 align="center">Hi 👋, I'm Akansha Pal</h1>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue" />
+<img src="https://img.shields.io/badge/Focus-RAG%20Systems-orange" />
+<img src="https://img.shields.io/badge/Focus-AI%20Agents-purple" />
+<img src="https://img.shields.io/badge/Focus-Computer%20Vision-green" />
+
+<img src="https://img.shields.io/badge/Code-Python-yellow?logo=python" />
+<img src="https://img.shields.io/badge/Framework-FastAPI-teal?logo=fastapi" />
+<img src="https://img.shields.io/badge/Cloud-AWS-black?logo=amazonaws" />
+<img src="https://img.shields.io/badge/Tools-Docker-blue?logo=docker" />
+<img src="https://img.shields.io/badge/VectorDB-Pinecone-red" />
+<img src="https://img.shields.io/badge/VectorDB-Milvus-blue" />
+
+</p>
 <h3 align="center">Generative AI Engineer | RAG | LLMs | Computer Vision</h3>
 
 <p align="center">
@@ -23,7 +41,11 @@
 
 **Language**
 **Python**
+## 🛠️ Languages & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,aws,pytorch,tensorflow,git,linux,github" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -61,3 +83,10 @@
 ---
 
 ⭐ *Always learning, always building.*
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akansh-aa/akansh-aa/output/github-contribution-grid-snake.svg" />
+</p>
