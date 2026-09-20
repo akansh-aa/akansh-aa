@@ -26,7 +26,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 💼 Generative AI Engineer with **3+ years experience**
+- 💼 Generative AI Engineer with **4+ years experience**
 - 🤖 Working on **RAG, LLM apps, AI Agents & Computer Vision**
 - ⚙️ Experienced in **FastAPI, Docker, AWS, Kubernetes**
 - 🔍 Passionate about building **production-ready AI systems**
